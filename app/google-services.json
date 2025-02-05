@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52455307512",
+    "project_id": "abahz-a5797",
+    "storage_bucket": "abahz-a5797.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52455307512:android:ff39e10d4ab6b46ed5e30d",
+        "android_client_info": {
+          "package_name": "com.abahz.abahz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATxz-N8COS1HPI14_7teXmzAboPVIGWdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
